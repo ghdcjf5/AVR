@@ -1,0 +1,17 @@
+/*
+ * sendDataToLed.c
+ *
+ * Created: 2020-12-22 ¿ÀÈÄ 4:51:49
+ * Author: PROCESSOR
+ */
+
+#include <mega128a.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}

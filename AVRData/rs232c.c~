@@ -1,0 +1,17 @@
+/*
+ * rs232c.c
+ *
+ * Created: 2020-12-15 ¿ÀÈÄ 4:49:24
+ * Author: PROCESSOR
+ */
+
+#include <mega128a.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}

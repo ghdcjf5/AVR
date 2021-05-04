@@ -1,0 +1,17 @@
+/*
+ * sw_encoder.c
+ *
+ * Created: 2020-12-08 ¿ÀÈÄ 4:54:29
+ * Author: PROCESSOR
+ */
+
+#include <mega128a.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}
